@@ -6,10 +6,10 @@ Built with Flutter & Firebase, following clean code practices and supporting dar
 ## Tech Stack
 Flutter • Dart • Firebase (Auth, Firestore, Storage) • State Management
 ## Features
-Authentication
-Product Browsing
-Cart & Favorites
-Order Tracking
-Dark Mode
-Responsive UI
+•Authentication
+•Product Browsing
+•Cart & Favorites
+•Order Tracking
+•Dark Mode
+•Responsive UI
 
