@@ -13,3 +13,7 @@ Flutter • Dart • Firebase (Auth, Firestore, Storage) • State Management
 •Dark Mode
 •Responsive UI
 
+<p align="center">
+  <img src="flory.png" width="80%"/>
+</p>
+
